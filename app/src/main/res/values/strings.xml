@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="soft_welcom">Welcome to software design certificate...</string>
+    <string name="soft_beneficiary">بهره بردار :</string>
+    <string name="soft_author">طراح :</string>
+    <string name="soft_startDate">تاریخ شروع :</string>
+    <string name="soft_endDate">تاریخ پایان :</string>
+    <string name="soft_startupDate">تاریخ راه اندازی :</string>
+    <string name="soft_designer">طراح :</string>
+    <string name="soft_designeLanguage">زبان طراحی :</string>
+    <string name="soft_dbLanguage">دیتابیس :</string>
+    <string name="soft_ip">آی پی سرور :</string>
+    <string name="soft_locationServer">موقعیت سرور :</string>
+    <string name="soft_phoneNumber">تلفن راهبر سیستم :</string>
+    <string name="soft_email">ایمیل :</string>
+</resources>
